@@ -6,13 +6,17 @@ ReBASE is a new methodology which will allow anyone to answer questions about th
 
 ### Time periods being considered
 
-Our first targeted time periods are:
+We are producing a global reanalysis for the modern era (**2015-2024**), along with both cooler and warmer counter-factual reconstructions with the same weather patterns.
 
-**1909-1911** - known extreme floods and heatwaves across Europe. Wildfire in the US.
+We are also producing improved reconstructions for historical periods containing notable extreme events which will be repeated in a modern and future climate.
 
-**1975-1976** - extreme heat and drought in the UK. Windstorm. Flood in China.
+**1903** - [proof-of-concept](1903.html)
 
-**2015-2024** - every extreme event globally could be analysed
+**1909-1911**
+
+**1975-1976**
+
+Suggestions for other periods welcome.
 
 ### People involved
 
