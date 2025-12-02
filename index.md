@@ -1,5 +1,4 @@
-## Reanalysis-Based Attribution and Storylines for Extremes 
-### (ReBASE)
+## Reanalysis-Based Attribution and Storylines for Extremes (ReBASE)
 
 ReBASE is a new reanalysis-based approach which will allow anyone to answer questions about the changing severity of observed extreme weather events in their own chosen region.
 
