@@ -1,8 +1,11 @@
-# ReBASE project 
+## Reanalysis-Based Attribution and Storylines for Extremes 
+### (ReBASE)
 
-Imagine a severe weather event occurs, causing devastating impacts to a particular region. ReBASE will provide answers to key questions about how the consequences of such extreme weather events have already changed and how those consequences may change further in future.
+ReBASE is a new reanalysis-based approach which will allow anyone to answer questions about the changing severity of observed extreme weather events in their own chosen region.
 
-ReBASE is a new methodology which will allow anyone to answer questions about the severity of extreme weather events in their own chosen region, anywhere in the globe. For example, how have the consequences of a particular weather situation been made worse by climate change? If the same weather situation had occurred in the climate that we had 100 years ago, would it have been less damaging? What about if the weather situation happens again in the future? 
+We are producing reconstructions and counterfactuals for all extreme events globally in particular time periods. Importantly, the counterfactuals will be of the 'same' weather events occurring in a different climate.
+
+For historical events, warmer counterfactuals will answer questions like "if that event reoccurred now or in the future, how extreme would it be?". For modern events, cooler counterfactuals will enable answers to questions like "how much more damaging was that event than if it had occurred without climate change". Future counterfactuals will explore how all these events would be different in a warmer future.
 
 ### Time periods being considered
 
