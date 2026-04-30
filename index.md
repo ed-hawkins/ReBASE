@@ -6,6 +6,9 @@ We are producing reconstructions and counterfactuals for all extreme events glob
 
 For historical events, warmer counterfactuals will answer questions like "if that event reoccurred now or in the future, how extreme would it be?". For modern events, cooler counterfactuals will enable answers to questions like "how much more damaging was that event than if it had occurred without climate change". Future counterfactuals will explore how all these events would be different in a warmer future.
 
+### **LATEST FINDINGS**
+Thomas et al. - first ReBASE results presented at [EGU 2026](results/EGU_2026_ReBASE_poster.pdf)
+
 ### Time periods being considered
 
 We are producing a global reanalysis for the modern era (**2015-2024**), along with both cooler and warmer counter-factual reconstructions with the same weather patterns.
